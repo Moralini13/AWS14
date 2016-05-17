@@ -8,17 +8,17 @@ public class EmpleadoBRTest {
 
 	@Test
 	public void calculaSalarioNeto() {
-		assertEquals("Resultado esperado: 12", 12, resultado, 0.1);
+		assertEquals("Resultado esperado: 12", 12,, 0.1);
 	}
 	
 	@Test
 	public void calculaSalarioNeto1() {
-		assertEquals("Resultado esperado: 12", 12, resultado, 0.1);
+		assertEquals("Resultado esperado: 12", 12,, 0.1);
 	}
 	
 	@Test
 	public void calculaSalarioNeto2() {
-		assertEquals("Resultado esperado: 12", 12, resultado, 0.1);
+		assertEquals("Resultado esperado: 12", 12, , 0.1);
 	}
 	
 	@Test
